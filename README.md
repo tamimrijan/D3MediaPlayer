@@ -18,7 +18,7 @@ To run the D3 Media Player, ensure you have the following installed on your syst
 
 ## How to Run
 
-1. Download the latest release of `D3MediaPlayer.jar` from the [Releases](#) section.
+1. Download the latest release of `D3MediaPlayer.jar` from the [Releases](https://github.com/tamimrijan/D3MediaPlayer/releases/tag/ver01) section.
 2. Open a terminal or command prompt and navigate to the directory where you saved the `.jar` file.
 3. Run the following command:
     ```bash
@@ -31,10 +31,6 @@ To run the D3 Media Player, ensure you have the following installed on your syst
 - **Java**: Core programming language.
 - **JavaFX**: Used for the user interface, built with FXML.
 - **CSS**: Custom styling for the media player's UI.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 
 ---
 
