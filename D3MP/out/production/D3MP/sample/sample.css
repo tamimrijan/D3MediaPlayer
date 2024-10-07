@@ -1,0 +1,167 @@
+.label {
+    -fx-text-fill: #fbfff8;
+}
+
+.label {
+    -fx-text-fill: #000000;
+}
+
+.text-input {
+    -fx-background-radius: 20;
+    -fx-text-fill: #00534b;
+    -fx-prompt-text-fill: #a5e333;
+}
+
+.button {
+    -fx-background-color: transparent;
+    -fx-background-radius: 5;
+    -fx-text-fill: #ffffff;
+}
+
+.button:hover {
+    -fx-background-color: #a5e333;
+    -fx-background-radius: 5;
+    -fx-text-fill: #ffffff;
+}
+
+.button:pressed {
+    -fx-text-fill: #ffe494;
+}
+
+.button2 {
+    -fx-background-color: #dbdad9;
+    -fx-text-fill: #4c4c4c;
+}
+
+.button2:hover {
+    -fx-background-color: #a5e333;
+    -fx-text-fill: #2b2b2b;
+}
+
+.text-show{
+    -fx-text-fill: #ffffff;
+}
+
+.color-select {
+    -fx-background-color: #393536;   //backgroud
+}
+
+.color-select2 {
+    -fx-background-color: #fefeff;
+}
+
+.color-select3 {
+    -fx-text-fill: white;
+}
+
+.color-select4 {
+    -fx-background-color: #2b2b2b;
+}
+
+.about-color-select {
+    -fx-background-color: #2f2f2f;
+}
+
+.color-transparent {
+    -fx-background-color: transparent;
+}
+
+.img {
+    -fx-opacity: .7;
+}
+
+.img:hover{
+    -fx-opacity: 2.0;
+}
+
+.img2 {
+    -fx-opacity: .90;
+}
+
+.img2:hover {
+    -fx-opacity: 2.0;
+}
+
+.choice-box {
+    -fx-background-color: transparent;
+}
+.choice-box > .label {
+    -fx-text-fill: white;
+}
+
+.choice-box:hover {
+    -fx-background-color: #a5e333;
+}
+
+.choice-box .context-menu { -fx-background-color: #2f2f2f; }
+.choice-box .menu-item:focused { -fx-background-color: #4e4e4e; }
+.choice-box .menu-item > .label { -fx-text-fill: #ffffff; }
+.choice-box .menu-item:focused > .label { -fx-text-fill: #ffffff; }
+
+#buttonOpen {
+    -fx-background-image: url("folder.png");
+    -fx-background-size: 20 18;
+    -fx-background-repeat: no-repeat;
+    -fx-background-position: center;
+    -fx-opacity: 0.7;
+}
+
+#buttonOpen:hover {
+    -fx-opacity: 0.9;
+}
+
+#buttonPlay {
+    -fx-opacity: 0.7;
+}
+
+#buttonPlay:hover {
+    -fx-opacity: 1.0;
+}
+
+#buttonStop {
+    -fx-background-image: url("stop.png");
+    -fx-background-size: 14 15;
+    -fx-background-repeat: no-repeat;
+    -fx-background-position: center;
+    -fx-opacity: 0.7;
+}
+
+#buttonStop:hover {
+    -fx-opacity: 1.0;
+}
+
+#buttonBackward {
+    -fx-background-image: url("backward.png");
+    -fx-background-size: 20 20;
+    -fx-background-repeat: no-repeat;
+    -fx-background-position: center;
+    -fx-opacity: 0.7;
+}
+
+#buttonBackward:hover {
+    -fx-opacity: 1.0;
+}
+
+#buttonForward {
+    -fx-background-image: url("forward.png");
+    -fx-background-size: 20 20;
+    -fx-background-repeat: no-repeat;
+    -fx-background-position: center;
+    -fx-opacity: 0.7;
+}
+
+#buttonForward:hover {
+    -fx-opacity: 2.0;
+}
+
+#buttonLoop{
+    -fx-background-image: url("loop.png");
+    -fx-background-size: 16 17;
+    -fx-background-repeat: no-repeat;
+    -fx-background-position: center;
+    -fx-opacity: 0.7;
+}
+
+#buttonLoop:hover {
+    -fx-opacity: 2.0;
+}
