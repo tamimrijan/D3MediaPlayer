@@ -21,7 +21,3 @@ To run the D3 Media Player, ensure you have the following installed on your syst
 - **Java**: Core programming language.
 - **JavaFX**: Used for the user interface, built with FXML.
 - **CSS**: Custom styling for the media player's UI.
-
----
-
-Feel free to clone, fork, or contribute to the project. Any feedback and contributions are welcome!
