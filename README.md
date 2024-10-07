@@ -14,8 +14,7 @@ D3 Media Player is a simple and lightweight video player built using Java, FXML,
 
 To run the D3 Media Player, ensure you have the following installed on your system:
 
-- **Java JDK 8** or higher.
-- 
+- **Java JDK 8** or higher
 ## Technologies Used
 
 - **Java**: Core programming language.
