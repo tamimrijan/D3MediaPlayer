@@ -15,17 +15,7 @@ D3 Media Player is a simple and lightweight video player built using Java, FXML,
 To run the D3 Media Player, ensure you have the following installed on your system:
 
 - **Java JDK 8** or higher.
-
-## How to Run
-
-1. Download the latest release of `D3MediaPlayer.jar` from the [Releases](https://github.com/tamimrijan/D3MediaPlayer/releases/tag/ver01) section.
-2. Open a terminal or command prompt and navigate to the directory where you saved the `.jar` file.
-3. Run the following command:
-    ```bash
-    java -jar D3MediaPlayer.jar
-    ```
-4. The media player will launch, and you can start playing your MP4 videos.
-
+- 
 ## Technologies Used
 
 - **Java**: Core programming language.
